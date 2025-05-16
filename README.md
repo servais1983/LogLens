@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/06259356-d2e7-4860-b44d-cee1cc05e3d0)
+
+
 # 🧿 LogLens – Analyse IA de logs système
 
 LogLens est un outil de ligne de commande conçu pour analyser intelligemment les fichiers de logs système, détecter des anomalies et générer des résumés en langage naturel.
