@@ -1,0 +1,9 @@
+# Dépendances pour LogLens
+# Configuration minimale - pas de dépendances externes lourdes
+
+# Pour les futures versions avancées, décommenter les lignes suivantes :
+# spacy>=3.5.0  # Pour NLP avancé
+# transformers>=4.28.0  # Pour modèles de langage avancés
+# pandas>=2.0.0  # Pour analyse de données
+# matplotlib>=3.7.0  # Pour visualisation
+# scikit-learn>=1.2.0  # Pour détection d'anomalies avancée
